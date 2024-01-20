@@ -6,7 +6,7 @@
 - Django >= 4.2.4
   - Instalação via terminel -> Windows: ```pip install django``` - Linux: ```pip install django``` ou ```pip3 install django```
 
-## Execultando projeto
+## Executando projeto
 1. Através do GIT clone o repositório do projeto:
     - ```git clone https://github.com/Gabrielrc11/todolist.git```
 2. Entre dentro da pasta **mvp_roleon** com o comando:
