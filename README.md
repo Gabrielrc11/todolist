@@ -1,13 +1,10 @@
-# Site MVP do Rolê On
+# Todo List
 
 ## Requisitos:
 - Python >= 3.11.4
   - Instalar no site do python - <a href="https://www.python.org/downloads/" target="_blank">Acesse aqui!</a>
 - Django >= 4.2.4
   - Instalação via terminel -> Windows: ```pip install django``` - Linux: ```pip install django``` ou ```pip3 install django```
-
-## Estrutura do projeto
-O planejamento da estrutura inicial do projeto pode ser acessada através do Google Drive da Startup - Link de acesso do planejamento: <a href="https://drive.google.com/file/d/1ayeHq1xzbj4IQHNi7ubusThOrK6JXTsA/view?usp=drive_link" target="_blank">Clique para acessar</a>
 
 ## Execultando projeto
 1. Através do GIT clone o repositório do projeto:
@@ -17,7 +14,7 @@ O planejamento da estrutura inicial do projeto pode ser acessada através do Goo
 4. Execulte o seguinte comando para rodar o projeto em debug:
     - ```python manage.py runserver```
 > [!NOTE]
-> Para parar a execulção do projeto use, no terminal, as teclas: ```Ctrl + C```
+> Para parar a execução do projeto use, no terminal, as teclas: ```Ctrl + C```
 
 ## Padronizações
 ### Commits
@@ -34,6 +31,3 @@ Esses **préfixo** podem ser:
 | bugfix  | Usado na branch que tem o objetivo de corrigir um bug  |
 | hotfix  | Usado na branch que tem o objetivo de alterar o código com uma solução temporária e/ou sem seguir o processo normal (geralmente devido a uma emergência)  |
 | improvement  | Usado na branch que tem o objetivo criar uma melhoria para algo que já existente, seja de performance, de escrita, de layout, etc. |
-
-
-
