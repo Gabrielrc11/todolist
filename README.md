@@ -8,9 +8,9 @@
 
 ## Execultando projeto
 1. Através do GIT clone o repositório do projeto:
-    - ```git clone https://github.com/grupo-on/Site-MVP.git```
+    - ```git clone https://github.com/Gabrielrc11/todolist.git```
 2. Entre dentro da pasta **mvp_roleon** com o comando:
-    - ```cd mvp_roleon```
+    - ```cd todolist```
 4. Execulte o seguinte comando para rodar o projeto em debug:
     - ```python manage.py runserver```
 > [!NOTE]
